@@ -27,7 +27,7 @@
     "base-64": "^1.0.0",
     "currency-formatter": "^1.5.9",
     "html-entities": "^2.3.3",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "moment": "^2.29.4",
     "react": "18.2.0",
     "react-hook-form": "^7.43.9",
